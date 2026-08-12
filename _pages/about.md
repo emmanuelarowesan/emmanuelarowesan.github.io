@@ -31,9 +31,7 @@ News
 
 **Sep 11, 2025** - Awarded for Social Impact at the [University of Lagos Engineering Society (ULES)](https://www.linkedin.com/company/theunilagengineer/about/).
 
-**Jan 22, 2025** - Our research on [Optimizing Posterior Samples for Bayesian Optimization via Rootfinding](https://openreview.net/pdf?id=IpRLTVblaV) was accepted to ICLR 2025!
-
-**Nov 12, 2024** - Honoured to receive travel funding from CcHub Africa/GIZ to present at the Innovation Summit in Nairobi, Kenya!
+**May 24, 2024** - Honoured to receive travel funding from CcHub Africa/GIZ to present at the Innovation Summit in Nairobi, Kenya!
 
 Contact
 ---------
